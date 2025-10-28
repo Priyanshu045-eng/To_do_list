@@ -40,21 +40,7 @@ body{
 .details{
     width: 100%;
 }
-/* #progresbar{
-    width: 100%;
-    height: 10px;
-    background-color: var(--secondaryBackground);
-    border-radius: 5px;
-    margin-top: 20px;
-}
-#proges{
-    width: 50%;
-    height: 10px;
-    background-color: var(--teal);
-    border-radius: 10px;
-    transition: all 0.3s ease;
 
-} */
 #progresbar {
     width: 100%;
     height: 10px;
@@ -151,4 +137,5 @@ button{
     height: 24px;
     margin: 0 10px;
     cursor: pointer;
+
 }
